@@ -23,15 +23,15 @@ Checklist:
 You are stuck in a virtual room and can only leave if you figure out the password! Fortunately, somebody left behind 6 clues for you to find the secret password, but the messaging is not that clear. It is your job to discover what the secret password is!
 
 1. The very odd and inedible ingredient in a cake recipe
-   Ans: Paper Ring
+   Ans: cat 02_assignments/clues/food/cake/vanilla_cake.txt = Paper Ring
 2. The season number that contains only 18 episodes (Hint: How do you list them?)
-   Ans: Seanson_10
+   Ans: ls 02_assignments/clues/shows/friends/season_10 = Season_10
 3. Fifth word of Season 6, Episode 21 of Friends
-   Ans: Meets
+   Ans: cat 02_assignments/clues/shows/friends/season_6/ep_21.txt = Meets
 4. Fifth word of the fifth fictional Space Wars series
-   Ans: Legacies
+   Ans: cat 02_assignments/clues/movies/space_wars/fifth_movie.txt = Legacies.
 5. Second word of this song that's exactly 4 minutes long in this "colour" album
-   Ans: Lucky
+   Ans: cat 02_assignments/clues/albums/red/song_5.txt = Lucky
 6. The fourth word to the fourth Hunger Games movie
    Ans: Cat 02_assignments/clues/movies/hanger_games/movie_4.txt = Stars
 
